@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-image-url.com/technotes_logo.png" alt="TechNotes Logo" width="200">
+
 
 # TechNotes Server - Powering Your Role-Based Employee Note Keeping App
 
